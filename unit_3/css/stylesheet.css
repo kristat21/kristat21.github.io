@@ -1,0 +1,14 @@
+stylesheet.css
+
+body {
+	color: #000000
+	background: #ffffff
+}
+
+h1 {
+	color: #00ff00;
+}
+
+#slogan {
+	font-style: italic;
+}
